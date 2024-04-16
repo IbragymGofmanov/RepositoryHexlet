@@ -1,0 +1,30 @@
+/* BEGIN (write your solution here) */
+
+
+/* END */
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  
+    /* BEGIN (write your solution here) */
+  
+    
+    /* END */
+  }
+  
+  /* BEGIN (write your solution here) */
+  
+  
+  /* END */
+  
+  .rounded-green {
+    color: #fff;
+  
+    background: #589c5f;
+    border-radius: 50%;
+  }
+  
