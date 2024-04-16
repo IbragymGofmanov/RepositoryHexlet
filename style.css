@@ -32,6 +32,13 @@ body {
   }
   
   /* BEGIN (write your solution here) */
+
+  .calendar{
+    width: 250px;
+    padding: 60px 60px 30px;
+    border-radius: 12px;
+    background-color: #1e1f25;
+  }
   
   
   /* END */
