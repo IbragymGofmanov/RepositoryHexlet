@@ -1,5 +1,16 @@
 /* BEGIN (write your solution here) */
 
+@font-face {
+    font-weight: 700;
+    font-family: "Rubik";
+    src: url(../assets/fonts/Rubik-Bold.woff2);
+}
+
+@font-face {
+    font-weight: 400;
+    font-family: "Rubik";
+    src: url(../assets/fonts/Rubik-Regular.woff2);
+}
 
 /* END */
 
